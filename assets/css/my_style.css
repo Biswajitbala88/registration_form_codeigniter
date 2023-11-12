@@ -1,0 +1,18 @@
+.loaderBox {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	z-index: 1;
+}
+.loaderBoxInr {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+.loaderImg {
+	max-width: 130px;
+}
